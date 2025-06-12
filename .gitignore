@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore test binary
+*.test
+
+# Output of the Go coverage tool
+*.out
+
+# Ignore coupons CSV export
+coupons.csv
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
